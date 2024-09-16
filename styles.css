@@ -15,18 +15,19 @@ nav > a {
     ;
 }
 
-header {
+header p.bold-text {
     text-align: center;
 }
 
-h1 {
-    color: #ce0121;
-    font-size: 65px;
-}
-
-.bold-text {
+.bold-text{
     font-weight: bold;
     font-size: 20px;
+}
+
+h1{
+    color: #ce0121;
+    font-size: 65px;
+    text-align: center;
 }
 
 h2 {
